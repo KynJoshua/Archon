@@ -1,9 +1,9 @@
 {
   "mcpServers": {
     "archon": {
-      "command": "[path to Archon]\\archon\\venv\\Scripts\\python.exe",
+      "command": "C:\\Users\\Joshua Macaldo\\Documents\\GitHub\\Pydantic-AI-Project\\Archon\\venv\\Scripts\\python.exe",
       "args": [
-        "[path to Archon]\\archon\\mcp_server.py"
+        "C:\\Users\\Joshua Macaldo\\Documents\\GitHub\\Pydantic-AI-Project\\Archon\\mcp_server.py"
       ]
     }
   }
